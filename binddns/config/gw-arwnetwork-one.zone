@@ -16,8 +16,8 @@ ns              IN      A       192.168.11.254
 
 ; -- add dns recods bellow
 
-tjg		IN	A	172.16.99.1
-krs		IN	A	172.16.2.1
-kancilan	IN	A	10.71.0.4
-xgarang		IN	A	10.71.0.5
+tjg		    IN      A	172.16.99.1
+krs         IN      A	172.16.2.1
+kancilan	IN  	A	10.71.0.4
+xgarang		IN  	A	10.71.0.5
 

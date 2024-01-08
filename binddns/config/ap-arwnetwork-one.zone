@@ -16,8 +16,8 @@ ns              IN      A       192.168.11.254
 
 ; -- add dns recods bellow
 
-teras            IN      A       172.16.99.3
-kidul            IN      A       172.16.99.4
-wetan            IN      A       172.16.99.6
-kulon            IN      A       172.16.99.7
-tungko		 IN	 A	 172.16.99.5
+teras           IN      A       172.16.99.3
+kidul           IN      A       172.16.99.4
+wetan           IN      A       172.16.99.6
+kulon           IN      A       172.16.99.7
+tungko          IN      A       172.16.99.5
