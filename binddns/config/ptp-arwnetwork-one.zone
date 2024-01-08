@@ -1,0 +1,20 @@
+$TTL 2d
+
+$ORIGIN ptp.arwnetwork.one.
+
+@         IN      SOA   ns.ptp.arwnetwork.one. info.arwnetwork.one. (
+                                2023103000 ; serial number
+                                12h        ; refresh
+                                15m        ; update retry
+                                3w         ; expiry
+                                2h         ; minimum
+                                )
+                
+                IN      NS      ptp.net.arwnetwork.one.
+
+ns              IN      A       192.168.11.254
+
+; -- add dns recods bellow
+
+krs-tjg		IN	A	172.16.2.3
+tjg-krs		IN	A	172.16.2.4

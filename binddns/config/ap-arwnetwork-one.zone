@@ -1,0 +1,23 @@
+$TTL 2d
+
+$ORIGIN ap.arwnetwork.one.
+
+@         IN      SOA   ns.ap.arwnetwork.one. info.arwnetwork.one. (
+                                2023103000 ; serial number
+                                12h        ; refresh
+                                15m        ; update retry
+                                3w         ; expiry
+                                2h         ; minimum
+                                )
+                
+                IN      NS      ap.net.arwnetwork.one.
+
+ns              IN      A       192.168.11.254
+
+; -- add dns recods bellow
+
+teras            IN      A       172.16.99.3
+kidul            IN      A       172.16.99.4
+wetan            IN      A       172.16.99.6
+kulon            IN      A       172.16.99.7
+tungko		 IN	 A	 172.16.99.5
