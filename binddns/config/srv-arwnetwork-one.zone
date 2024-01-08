@@ -16,14 +16,14 @@ ns              IN      A       192.168.11.254
 
 ; -- add dns recods bellow
 
-nas		IN	A	192.168.11.254
-omv		IN	A	192.168.11.254
-dns1		IN	A	172.16.21.11
-dns2		IN	A	172.16.21.12
-lancache	IN	A	172.16.21.251
-pve		IN	A	172.16.21.250
-grafana		IN	A	192.168.11.254
-master01	IN	A	192.168.11.11
+nas		        IN	    A	    192.168.11.254
+omv		        IN	    A	    192.168.11.254
+dns1		    IN	    A	    172.16.21.11
+dns2		    IN	    A	    172.16.21.12
+lancache	    IN	    A	    172.16.21.251
+pve		        IN	    A	    172.16.21.250
+grafana		    IN	    A	    192.168.11.254
+master01	    IN	    A	    192.168.11.11
 master02        IN      A       192.168.11.12
 master03        IN      A       192.168.11.13
 worker01        IN      A       192.168.11.21
